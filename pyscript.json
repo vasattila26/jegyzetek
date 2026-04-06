@@ -1,0 +1,6 @@
+{
+    "name": "Privat Jegyzetek",
+    "description": "Jelszóval védett lokális jegyzetelő",
+    "terminal": false,
+    "packages": []
+}
